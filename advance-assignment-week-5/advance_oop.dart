@@ -28,7 +28,7 @@ class Teacher {
 }
 
 void main() {
-  var student = Student('Abubakar Nuuman Adam', 24, '8th');
+  var student = Student('Abubakar Nuuman Adam', 22, '8th');
 
   // Create a teacher object
   var teacher = Teacher('Mr. Jafar Ibrahim', 35, 'Biology');
